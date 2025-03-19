@@ -1,4 +1,5 @@
 import { MainNav } from "./main-nav";
+import { Link } from "wouter";
 
 export function SiteLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -11,8 +12,12 @@ export function SiteLayout({ children }: { children: React.ReactNode }) {
             © 2025 AI Investment Advisor. All rights reserved.
           </p>
           <div className="flex items-center space-x-4 text-sm text-muted-foreground">
-            <Link href="/privacy">Privacy</Link>
-            <Link href="/terms">Terms</Link>
+            <Link href="/privacy">
+              <a className="hover:text-primary">Privacy</a>
+            </Link>
+            <Link href="/terms">
+              <a className="hover:text-primary">Terms</a>
+            </Link>
           </div>
         </div>
       </footer>
