@@ -1,0 +1,75 @@
+# **AI-Powered Investment Chatbot Portal - Project Overview**
+
+## **1. Introduction**
+The AI-powered investment chatbot portal is designed to revolutionize investment advisory services by leveraging artificial intelligence and real-time financial data analysis. This chatbot will provide intelligent investment insights, risk assessments, portfolio management, and investor matchmaking. The system will be accessible exclusively via a **web-based portal** and not through external platforms like WhatsApp or Telegram.
+
+## **2. Key Features of the AI Investment Chatbot**
+✅ **AI Chatbot for Investment Advisory** – Provides personalized investment recommendations based on market trends, user risk tolerance, and financial goals.  
+✅ **Market Sentiment & Stock Insights** – Uses AI-driven sentiment analysis to assess financial news and predict market movements.  
+✅ **Portfolio Tracking & Smart Rebalancing** – AI monitors investments, suggests rebalancing strategies, and generates performance reports.  
+✅ **Investor Matchmaking System** – Connects startups with potential investors using AI-driven profiling.  
+✅ **Premium Subscription System** – Offers advanced AI insights and investment analytics via secure payment integration.  
+✅ **Agentic AI Integration** – AI agents autonomously analyze market trends, update recommendations, and optimize investment strategies.  
+✅ **Distinguished Brand Webpage** – A professional website dedicated to brand identity, marketing, and user engagement.  
+
+---
+
+# **3. Complete Frontend Overview for the AI-Powered Investment Chatbot Portal**
+
+## **🔹 1. Distinguished Brand Webpage**
+✅ **Homepage (Landing Page)** – Showcases AI chatbot features & benefits.  
+✅ **About Us Page** – Company vision, AI technology, and team introduction.  
+✅ **How It Works Page** – Step-by-step investment guidance.  
+✅ **Pricing & Plans Page** – Subscription details & benefits.  
+✅ **Contact & Support Page** – Inquiry form, FAQs, and live chat support.  
+✅ **Blog & Insights Page** – AI-driven financial articles & investment tips.  
+
+## **🔹 2. Authentication & Onboarding Pages**
+✅ **Login Page** – Secure login via Email, Google OAuth, or OTP.  
+✅ **Signup Page** – New user registration with investment preferences.  
+✅ **Forgot Password Page** – Reset password using email or OTP.  
+✅ **User Onboarding Page** – Allows users to set investment goals, risk tolerance, and budget.  
+
+## **🔹 3. User Dashboard & Profile Management**
+✅ **Dashboard Page** –
+   - AI chatbot for investment queries.
+   - Live stock market ticker & market sentiment analysis.
+   - Portfolio performance tracking & AI-generated investment insights.
+✅ **User Profile Page** – Manage personal details & investment preferences.  
+✅ **Settings Page** – Enable notifications, dark mode & UI customization.  
+
+## **🔹 4. AI Chatbot & Investment Advisory Pages**
+✅ **Chatbot Interface Page** – AI-driven investment queries & financial insights.  
+✅ **Chatbot History Page** – View past AI recommendations & interactions.  
+
+## **🔹 5. Market Analysis & Investment Planning**
+✅ **Stock Market Insights Page** – Real-time stock prices & AI sentiment scoring.  
+✅ **Investment Plans & Strategies Page** – AI-driven investment recommendations (Conservative, Balanced, Aggressive).  
+✅ **News & Sentiment Analysis Page** – Fetches & classifies financial news for informed decisions.  
+
+## **🔹 6. Portfolio & Investor Matchmaking System**
+✅ **Portfolio Management Page** – AI-powered tracking & smart rebalancing.  
+✅ **Investor Matchmaking Page** – AI connects startups with investors based on industry trends.  
+
+## **🔹 7. Subscription & Payment Pages**
+✅ **Pricing & Subscription Page** – Free vs Premium plan comparison.  
+✅ **Payment Gateway Page** – Razorpay/Stripe integration for transactions.  
+✅ **Subscription Management Page** – Upgrade, cancel, renew premium plans.  
+
+## **🔹 8. Admin Panel (For Future Scalability)**
+✅ **User Management Page** – View & manage registered users.  
+✅ **Investment Data Management Page** – AI model customization & insights.  
+✅ **Transaction History Page** – Track premium subscriptions & payments.  
+
+---
+
+# **4. Final Deliverables**
+- ✅ **Fully responsive UI (React.js + Next.js).**  
+- ✅ **AI chatbot interaction & real-time market insights.**  
+- ✅ **User authentication, profile, and dashboard management.**  
+- ✅ **Investment planning, tax-saving strategies & portfolio tracking.**  
+- ✅ **Investor matchmaking & premium subscription system.**  
+- ✅ **Standalone brand website for marketing & user acquisition.**  
+
+🚀 **This frontend will be the face of the AI-powered investment chatbot portal. The next step is to start development with authentication & dashboard UI!**
+
